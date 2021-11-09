@@ -1,0 +1,8 @@
+{
+  "short_name": "ToDo List",
+  "name": "ToDo List made by KTRD with React",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
